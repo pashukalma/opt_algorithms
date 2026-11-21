@@ -1,1 +1,1 @@
-# opt_algorithms
+optimization algorithms
