@@ -22,6 +22,6 @@ routing_contract_hierarchy.ipynb: Implements Contraction Hierarchies, a graph pr
 
 routing_problem.ipynb: Models general network or vehicle routing problems, optimizing paths or fleet assignments across a graph.
 
-search_alg_part1.ipynb: Explores foundational graph and state-space search algorithms (such as BFS, DFS, Dijkstra's, or A*) for pathfinding.
+search_algorithms.ipynb: Explores foundational graph and state-space search algorithms (such as BFS, DFS, Dijkstra's, or A*) for pathfinding.
 
 supply_demand_with_aco.ipynb: Applies Ant Colony Optimization (ACO) to match or route supply to demand nodes using pheromone-based metaheuristic search.
