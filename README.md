@@ -1,6 +1,14 @@
+### RL Algorithms (`opt_algorithms`)
+
+(RL) Simulate and train a centralized Reinforcement Learning (RL) policy for autonomous mobile network coordination using the mobile-env and stable-baselines3 libraries.
+- RL_autonomous_mobile.ipynb: Workflow using mobile-env to optimize base station (BS) and user equipment (UE) connections for Quality of Experience (QoE), contrasting a centralized Stable-Baselines3 PPO agent against a multi-agent Ray RLlib setup.
+
+(RL) Transitions from stateless decision-making under uncertainty (Multi-Armed Bandits) to sequential decision-making in stateful environments (Advantage Actor-Critic on CartPole-v1).
+- RL_concepts.ipynb: Multi-Armed Bandits (MAB) & Exploration-Exploitation, and  Advantage Actor-Critic (A2C) Algorithm on CartPole-v1. 
+
 ### Optimization Algorithms (`opt_algorithms`)
 
-A collection of Jupyter Notebooks exploring routing, search, geospatial analysis, and metaheuristic optimization algorithms.
+Exploring routing, search, geospatial analysis, and metaheuristic optimization algorithms.
 - Traveling Salesperson Problem (TSP) formulations and heuristics 
 - Facility location or allocation using NSGA (Non-dominated Sorting Genetic Algorithm) 
 - Spatial data handling, coordinates, and mapping workflows 
