@@ -6,6 +6,11 @@
 (RL) Transitions from stateless decision-making under uncertainty (Multi-Armed Bandits) to sequential decision-making in stateful environments (Advantage Actor-Critic on CartPole-v1).
 - RL_concepts.ipynb: Multi-Armed Bandits (MAB) & Exploration-Exploitation, and  Advantage Actor-Critic (A2C) Algorithm on CartPole-v1. 
 
+### LDemand Allocation
+Implement and analyze bio-inspired and heuristic optimization strategies for the Drone Delivery Optimization Problem. 
+- location_allocation_problem.ipynb
+- drone_delivery_solver.ipynb
+
 ### Optimization Algorithms (`opt_algorithms`)
 
 Exploring routing, search, geospatial analysis, and metaheuristic optimization algorithms.
